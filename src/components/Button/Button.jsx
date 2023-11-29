@@ -1,5 +1,5 @@
 import { TouchableOpacity, View } from "react-native";
-import { style } from "./DefaultButtonStyle";
+import { style } from "./ButtonStyle";
 import { Text } from "react-native";
 
 export function Button({ buttonText, clickHandler }) {
